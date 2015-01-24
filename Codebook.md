@@ -1,3 +1,5 @@
+### Summary data set based on human activity recognition using smartphones data set
+
 1. Subject
   * An identifier of the subject who performed the activity
   * Integer values from 1 to 30
